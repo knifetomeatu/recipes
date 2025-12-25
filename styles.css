@@ -34,7 +34,7 @@ ul, ol { margin-left: 20px; }
 .instagram-print {
   text-align: center;
   margin: 20px 0;
-  display none;
+  display: none !important;
 }
 
 /* ===== Tags ===== */
@@ -110,7 +110,7 @@ button {
     font-size: 0.9rem;
     font-style: italic;
     text-align: center;
-    martin-top: 0.2in;
+    margin-top: 0.2in;
     color: #ff9090;
     visibility: hidden !important;
   }
