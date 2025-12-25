@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mexican Chicken & Rice Bowls</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #fafafa;
+    }
+    h1 {
+      text-align: center;
+    }
+    a {
+      color: #e63946;
+    }
+  </style>
+</head>
+<body>
+
+<a href="index.html">← Back to recipes</a>
+
+<h1>Mexican Chicken & Rice Bowls</h1>
+
+<h2>Ingredients</h2>
+<ul>
+  <li>1½ cups jasmine rice</li>
+  <li>Chicken breast</li>
+  <li>Green bell pepper</li>
+  <li>Tex-Mex seasoning</li>
+</ul>
+
+<h2>Instructions</h2>
+<ol>
+  <li>Cook rice with stock and turmeric.</li>
+  <li>Cook chicken and peppers with seasoning.</li>
+  <li>Assemble bowls and serve.</li>
+</ol>
+
+</body>
+</html>
