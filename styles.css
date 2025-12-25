@@ -118,6 +118,8 @@ button {
   h2 {
     font-size: 14pt !important;
     margin-top: 0.25in !important;
+    page-break-before: always !important;
+    page-break-inside: avoid !important;
   }
 
   /* Lists and steps */
