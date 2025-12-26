@@ -9,7 +9,7 @@ body {
   max-width: 800px;
   margin: 40px auto;
   padding: 0 20px;
-  background: #fafafa;
+  background: #b1ffa6;
   line-height: 1.6;
 }
 
@@ -130,7 +130,7 @@ button {
   }
 
   h2 {
-    font-size: 14pt !important;
+    font-size: 12pt !important;
     margin-top: 0.25in !important;
     page-break-before: auto !important;
     page-break-inside: avoid !important;
