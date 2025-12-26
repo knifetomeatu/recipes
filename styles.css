@@ -1,7 +1,7 @@
 /* ===== Homepage font size ===== */
 body.homepage {
   font-size: 2.0rem; /* slightly larger font for readability */
-  background: #b1ffa6;
+  background: #e3ffdf;
 }
 
 /* ===== Base Layout ===== */
@@ -10,7 +10,7 @@ body {
   max-width: 800px;
   margin: 40px auto;
   padding: 0 20px;
-  background: #b1ffa6;
+  background: #e3ffdf;
   line-height: 1.6;
 }
 
